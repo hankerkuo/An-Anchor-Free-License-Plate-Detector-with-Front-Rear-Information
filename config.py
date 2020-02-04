@@ -46,7 +46,7 @@ class Configs:
         self.input_norm = True
 
         self.weight = 'C:\model_testing\Dim256It598000Bsize16Lr0.00025.h5'
-        self.input_dir = 'C:\model_testing\pics'
+        self.input_dir = 'C:\model_testing\cd-hard-vernex'
         self.output_dir = 'C:\GithubProject\An-Anchor-Free-License-Plate-Detector-with-Front-Rear-Information\output'
 
         """Benchmark configs"""
